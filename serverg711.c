@@ -1,6 +1,6 @@
 /*
 ** server.c -- a stream socket server demo
-*/
+**/
 
 #ifdef HAVE_CONFIG_H
 #include <config.h>
